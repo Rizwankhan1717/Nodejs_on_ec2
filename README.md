@@ -53,3 +53,7 @@ Get inside the directory and Install Packages
 Start the application To start the application, run the below command in the terminal:
 
 7) npm start
+
+#OUTPUT 
+
+![6](https://github.com/Rizwankhan1717/Nodejs_on_ec2/assets/113688628/505a8079-e869-414b-a1db-5b21ffc60bba)
